@@ -1,0 +1,10 @@
+************************************************************************************
+ Dictionaries allow you to connect pieces of information, but they don’t
+ keep track of the order in which you add key-value pairs. If you’re creating
+ a dictionary and want to keep track of the order in which key-value pairs
+ are added, you can use the OrderedDict class from the collections module.
+
+
+
+If you don't give the array() function a data type, it will assume that it is dealing with
+floating point numbers.(We were creating a record list then :) ) 
